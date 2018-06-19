@@ -1,0 +1,16 @@
+html {
+    font: 0.75em/1.5em Arial, "Helvetica CY", "Nimbus Sans L", sans-serif;
+    text-align: center;
+    padding-top: 100px;
+    background-image: url("http://content.lionbridge.com/files/2015/07/Dif-Between-Loc-and-Translation-Definitions-03.png");
+}
+.bx {
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+    padding: 10px ;
+    background: white;
+    border: 1px solid #000;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
