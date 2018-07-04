@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="Your Order Summary"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="133dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="16dp"
+            android:text="Name: Sample Order"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="191dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chicken? Yes"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="234dp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shrimp? Yes"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="177dp" />
+
+        <TextView
+            android:id="@+id/textViewnew"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Onions? No"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="177dp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total: $37.15"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="320dp" />
+
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thank You for your order!"
+            tools:layout_editor_absoluteX="31dp"
+            tools:layout_editor_absoluteY="360dp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:onClick="sendSummary"
+            android:text="Send"
+            tools:layout_editor_absoluteX="161dp"
+            tools:layout_editor_absoluteY="419dp" />
+
+    </LinearLayout>
+</ScrollView>
+
+

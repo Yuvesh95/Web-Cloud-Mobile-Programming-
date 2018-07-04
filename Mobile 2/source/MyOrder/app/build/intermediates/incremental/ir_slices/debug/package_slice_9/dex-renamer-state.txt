@@ -1,0 +1,4 @@
+#Tue Jul 03 14:40:18 CDT 2018
+base.0=C\:\\Users\\kamal\\Desktop\\Web\\cs\\Web-Cloud-Mobile-Programming-master\\Web-Cloud-Mobile-Programming-master\\Mobile2\\source\\MyOrder\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
