@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_2cd39040c42e529795182b0b8817b0cf40abfff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\7a1903b03a06f19e22264d82affdb46f9cbc2c14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5c0c5d296c75b10dd11bfb65588155b58be70ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\b5b04854be7dea8a253d13aad7b9d18c2061d35f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7fde2724bfcfb07ce856aab707f5205f1a4b49d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\c02dd1ad00e3f6a012e8f53ea08cd91544ed51b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04d0ffb6f95dc3da04434ef5e203daf1dee7adca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\33016a983dde03583dca749133284fa7a4e92071\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cc3d1113fd5ec5faaf2d5eaf16741528736caaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\4032c32d15d8307c6cc95dd6a2affe4032eb73fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7faaf2a8c1a6f547ecc9946b4b9bdd18905188d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72e98672aa2a76f4700bc9607a4f3043d4976447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\21f2f65bfc7ee7d748958f7f077b50f637c7ec2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_320aa91040ef17989c4164db2188e4bb9507498f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\0907124706e3418d51830ab7b78332c189dd3463\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eeb385770025bc42654ff6f9e32ece61498267ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\a96b937c112dba33ea14c19b855b32971465947c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c47431017e0568fd56f695452e699d8aaa91d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\.android\build-cache\6beae2fdb6ec87ff6e7b315cc97ff07b9e8e9cdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25865780c3eec862aaf2c61806bba731568b810e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b14c1cc7cb7599adb7edd27ed6b4f64ec47ca036">
+        <dex dex="C:\Users\Yuvesh\Desktop\Android-Speech-to-Text-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dbe0e95260acc9b48f79a735c0a699851872ff9c\classes.dex" />
+    </item>
+
+</items>
